@@ -19,8 +19,8 @@ The script run_analysis.R uses the following files from the downloaded folder:
 
 ##Using the Script
 
-The script "run_analysis.R" should be run from the working directory. When run, the script will download and unzip the files to a new folder, and set the working directory to the folder where the files listed above are located.
+The script 'run_analysis.R' should be run from the working directory. When run, the script will download and unzip the files to a new folder, and set the working directory to the folder where the files listed above are located.
 
-Files from the "test" and "train" folders listed above are merged into a single data frame containing columns for subject, activity, and several measurement variables. Descriptive activity labels are added from the activity_labels file. Names for the measurement variables are added from the features file, then edited to be more descriptive. Finally, a second, tidy data frame is created which contains averages on all measurement variables for each subject and activity. This data frame is written to "tidydata.txt".
+Files from the "test" and "train" folders listed above are merged into a single data frame containing columns for subject, activity, and several measurement variables. Descriptive activity labels are added from the activity_labels file. Names for the measurement variables are added from the features file, then edited to be more descriptive. Finally, a second, tidy data frame is created which contains averages on all measurement variables for each subject and activity. This data frame is written to 'tidydata.txt'.
 
-The resulting tidy dataset is described in CodeBook.md.
+The resulting tidy dataset is described in 'CodeBook.md'.
