@@ -8,14 +8,14 @@ Data is downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fproject
 
 The script run_analysis.R uses the following files from the downloaded folder:
 
--train/X_train.txt
--train/Y_train.txt
--train/subject_train.txt
--test/X_test.txt
--test/Y_test.txt
--test/subject_test.txt
--activity_labels.txt
--features.txt
+- train/X_train.txt
+- train/Y_train.txt
+- train/subject_train.txt
+- test/X_test.txt
+- test/Y_test.txt
+- test/subject_test.txt
+- activity_labels.txt
+- features.txt
 
 ##Using the Script
 
