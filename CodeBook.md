@@ -4,12 +4,12 @@
 	30 volunteers wore Samsung Galaxy S II smartphones on the waist and completed six activities. Measurements were taken using the phone's gyroscope and accelerometer.
  
  [2] "activity"                              
-	1. WALKING
-	2. WALKING_UPSTAIRS
-	3. WALKING_DOWNSTAIRS
-	4. SITTING
-	5. STANDING
-	6. LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 Variables below are the means for each subject and each activity on the original mean and standard deviation values of measurements taken by the accelerometer and gyroscope of the smartphone worn by each subject while completing the indicated activities. Original measurements were taken from 3-axial raw signals (X, Y, Z).  Original measurements are the time domain signals.  Accelerometer signals were separated into body and gravity acceleration signals.  Linear acceleration and angular velocity were derived to obtain Jerk signals.  Magnitude was calculated using the Euclidean norm. Frequency domain signals were produced by applying Fast Fourier Transformations (FFT) to some of the signals.
 
